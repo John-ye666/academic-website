@@ -14,8 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Monetary Economics, International Economics, and Search Theory.
-
+bio: My name is Wei Ye. I am currently MS student in Economics at University of Wisconsin-Madison.
 interests:
 - Monetary Economics
 - International Economics
@@ -69,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am currently a MS student in economics at University of Wisconsin-Madison. I am applying for ECON PhD Programs. Hope everything can go well. I like distance running and have taken running as a very imporatant part of my life. Because it can not give me peace, but expel anxiety and pressure. Let's run! 
