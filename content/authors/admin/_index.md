@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a MS student in economics at University of Wisconsin-Madison. I am applying for ECON PhD Programs. Hope everything can go well. I like distance running and have taken running as a very imporatant part of my life. Because it can not give me peace, but expel anxiety and pressure. Let's run! 
+I am currently a MS student in economics at University of Wisconsin-Madison. I am applying for ECON PhD Programs. Hope everything can go well. I like distance running and have taken running as a very imporatant part of my life. Because it can not only give me peace, but expel anxiety and pressure. Let's run! 
